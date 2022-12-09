@@ -1,0 +1,3 @@
+[submodule "starwars/react-starwars-api"]
+path = starwars/react-starwars-api
+url = "https://github.com/coding1023/react-starwars-api.git"
